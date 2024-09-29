@@ -28,13 +28,11 @@ The purpose of this project is to learn Backend Development, Spring Framework an
 
 ### Prerequisites
 
-1. **Java JDK**: Make sure you have JDK 17 or higher installed.
+1. **Java JDK**: Make sure you have JDK 21 installed.
 2. **Maven**: Ensure Maven is installed to manage the project dependencies.
-3. **PostgreSQL**: Install PostgreSQL if you choose to use it instead of H2.
+3. **Optional: PostgreSQL**: Install PostgreSQL if you choose to use it instead of H2.
 
 ### How to Use
-
-Make sure Maven is installed on your computer!
 
 ```bash
 git clone https://github.com/nzhussup/SimpleJobAppBackend.git
