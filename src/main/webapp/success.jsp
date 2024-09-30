@@ -19,13 +19,13 @@
 
 <div class="container" id="home">
     <h1>Welcome to the Job Applications Portal</h1>
-    <h3>Job deleted</h3>
+    <h3>Job ${status}</h3>
 
-    <h4>Id: ${deletedJob.id}</h4>
-    <h4>Name: ${deletedJob.name}</h4>
-    <h4>Country: ${deletedJob.country}</h4>
-    <h4>City: ${deletedJob.city}</h4>
-    <h4>Requirements: ${deletedJob.requirements}</h4>
+    <h4>Id: ${statusId}</h4>
+    <h4>Name: ${job.name}</h4>
+    <h4>Country: ${job.country}</h4>
+    <h4>City: ${job.city}</h4>
+    <h4>Requirements: ${job.requirements}</h4>
 </div>
 
 </body>

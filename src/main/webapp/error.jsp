@@ -19,13 +19,10 @@
 
 <div class="container" id="home">
     <h1>Welcome to the Job Applications Portal</h1>
-    <h3>Job added</h3>
+    <h3>Error occured!</h3>
+    <h3>Error message: </h3>
+    <h4>${error}</h4>
 
-    <h4>Id: Auto-Generated</h4>
-    <h4>Name: ${addedJob.name}</h4>
-    <h4>Country: ${addedJob.country}</h4>
-    <h4>City: ${addedJob.city}</h4>
-    <h4>Requirements: ${addedJob.requirements}</h4>
 </div>
 
 </body>
